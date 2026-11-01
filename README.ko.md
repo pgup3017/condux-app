@@ -8,7 +8,13 @@
 
 ## 설치
 
-macOS 14 이상의 Apple Silicon Mac과 Xcode가 필요합니다. 아직 바로 받는 설치 파일은 없습니다.
+macOS 14 이상의 Apple Silicon Mac이 필요합니다.
+
+[**최신 버전 내려받기**](https://github.com/pgup3017/condux-app/releases/latest)에서 파일을 받아 압축을 풀고, `Condux.app`을 응용 프로그램 폴더로 옮기면 됩니다. Developer ID로 서명하고 Apple 공증을 받았습니다. 아직 자동 업데이트는 없으니 새 버전은 이 페이지에서 확인하세요.
+
+### 소스에서 빌드
+
+Xcode가 필요합니다.
 
 ```bash
 git clone https://github.com/pgup3017/condux-app.git

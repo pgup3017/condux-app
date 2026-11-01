@@ -23,7 +23,13 @@
 
 ## Install
 
-You need macOS 14 or later on Apple Silicon, and Xcode. There's no prebuilt download yet.
+You need macOS 14 or later on Apple Silicon.
+
+[**Download the latest version**](https://github.com/pgup3017/condux-app/releases/latest), unzip it, and move `Condux.app` to Applications. It's signed with Developer ID and notarized by Apple. It doesn't update itself yet, so check the releases page for new versions.
+
+### Build from source
+
+You need Xcode.
 
 ```bash
 git clone https://github.com/pgup3017/condux-app.git
